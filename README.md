@@ -10,7 +10,7 @@
 
 ## 🧠 Tentang Saya
 
-Halo! Saya Madelin Raenita, pelajar dari **SMKN 2 SUkabumi, jurusan Rekayasa Perangkat Lunak (RPL)**. Saya memiliki ketertarikan besar dalam pengembangan aplikasi web — mulai dari desain, logika backend, hingga database dan implementasi UI modern.
+Halo! Saya Madelin Raenita, pelajar dari **SMKN 2 Sukabumi, jurusan Rekayasa Perangkat Lunak (RPL)**. Saya memiliki ketertarikan besar dalam pengembangan aplikasi web — mulai dari desain, logika backend, hingga database dan implementasi UI modern.
 
 Saya percaya bahwa **setiap error membawa pelajaran**, dan semangat saya adalah tumbuh melalui proses belajar yang konsisten dan real-project oriented.
 
