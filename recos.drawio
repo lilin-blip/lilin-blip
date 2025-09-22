@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2430" dy="1992" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6037" dy="3844" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -148,7 +148,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u_xMSNpEO1qyEQWYSlBW-45" value="Apakah klik tombol &quot;Chat&quot; ?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2170.13" y="793" width="130" height="130" as="geometry" />
+          <mxGeometry x="2170.13" y="792" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="u_xMSNpEO1qyEQWYSlBW-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u_xMSNpEO1qyEQWYSlBW-47" target="u_xMSNpEO1qyEQWYSlBW-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -172,10 +172,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u_xMSNpEO1qyEQWYSlBW-62" value="Menampilkan halaman&lt;div&gt;&amp;nbsp;Chat&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2369.13" y="818" width="200" height="80" as="geometry" />
+          <mxGeometry x="2369.13" y="817" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="u_xMSNpEO1qyEQWYSlBW-63" value="Penyewa melakukan tanya jawab dengan pemilik toko" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2641.13" y="828" width="175" height="60" as="geometry" />
+          <mxGeometry x="2641.13" y="827" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u_xMSNpEO1qyEQWYSlBW-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u_xMSNpEO1qyEQWYSlBW-66" target="u_xMSNpEO1qyEQWYSlBW-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -215,6 +215,19 @@
             <mxPoint y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1IzQJJrlSaSmDRKroWna-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u_xMSNpEO1qyEQWYSlBW-73" target="u_xMSNpEO1qyEQWYSlBW-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1505" y="1567" />
+              <mxPoint x="1505" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1IzQJJrlSaSmDRKroWna-2" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1IzQJJrlSaSmDRKroWna-1">
+          <mxGeometry x="-0.9733" relative="1" as="geometry">
+            <mxPoint x="1" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="u_xMSNpEO1qyEQWYSlBW-73" value="Apakah klik tombol &quot;Bayar&quot; ?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2150.63" y="1499" width="135" height="135" as="geometry" />
         </mxCell>
@@ -243,17 +256,16 @@
             <mxPoint x="1671.13" y="713" as="targetPoint" />
             <mxPoint x="3155.7014285714295" y="1680.9285714285706" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="3156.13" y="1651" />
-              <mxPoint x="3156.13" y="1869" />
-              <mxPoint x="1504.1299999999999" y="1869" />
-              <mxPoint x="1504.1299999999999" y="691" />
-              <mxPoint x="1671.13" y="691" />
+              <mxPoint x="3154" y="1869" />
+              <mxPoint x="1504" y="1869" />
+              <mxPoint x="1504" y="691" />
+              <mxPoint x="1671" y="691" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="u_xMSNpEO1qyEQWYSlBW-86" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="u_xMSNpEO1qyEQWYSlBW-85" vertex="1" connectable="0">
           <mxGeometry x="-0.9629" y="3" relative="1" as="geometry">
-            <mxPoint x="14" y="-2" as="offset" />
+            <mxPoint x="13" y="-48" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u_xMSNpEO1qyEQWYSlBW-80" value="Apakah klik tombol &quot;Ok!&quot; ?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
