@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.4">
   <diagram name="Page-1" id="AA9trC6-xfU6afuePi1D">
-    <mxGraphModel>
+    <mxGraphModel dx="2587" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="adEVCsGDcoC7lPXOPuaK-1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="230" width="1040" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="adEVCsGDcoC7lPXOPuaK-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="adEVCsGDcoC7lPXOPuaK-1" source="adEVCsGDcoC7lPXOPuaK-2" target="adEVCsGDcoC7lPXOPuaK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adEVCsGDcoC7lPXOPuaK-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="adEVCsGDcoC7lPXOPuaK-1" source="adEVCsGDcoC7lPXOPuaK-2" target="adEVCsGDcoC7lPXOPuaK-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adEVCsGDcoC7lPXOPuaK-2" value="&lt;b&gt;CEO&lt;/b&gt;&lt;div&gt;Ferry Ristiwan&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="adEVCsGDcoC7lPXOPuaK-1">
+          <mxGeometry x="330" y="50" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="adEVCsGDcoC7lPXOPuaK-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="adEVCsGDcoC7lPXOPuaK-1" source="adEVCsGDcoC7lPXOPuaK-5" target="adEVCsGDcoC7lPXOPuaK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adEVCsGDcoC7lPXOPuaK-5" value="&lt;b&gt;Manajer Bizdev&lt;/b&gt;&lt;div&gt;Astri Hartati&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="adEVCsGDcoC7lPXOPuaK-1">
+          <mxGeometry x="69.5" y="180" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="adEVCsGDcoC7lPXOPuaK-7" value="&lt;b&gt;Support&lt;/b&gt;&lt;div&gt;Sesilia Natasya&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="adEVCsGDcoC7lPXOPuaK-1">
+          <mxGeometry x="69.5" y="340" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="adEVCsGDcoC7lPXOPuaK-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="adEVCsGDcoC7lPXOPuaK-1" source="adEVCsGDcoC7lPXOPuaK-9" target="adEVCsGDcoC7lPXOPuaK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adEVCsGDcoC7lPXOPuaK-9" value="&lt;b&gt;CTO&lt;/b&gt;&lt;div&gt;Diki Andreas&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="adEVCsGDcoC7lPXOPuaK-1">
+          <mxGeometry x="590" y="170" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="adEVCsGDcoC7lPXOPuaK-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="adEVCsGDcoC7lPXOPuaK-1" source="adEVCsGDcoC7lPXOPuaK-11" target="adEVCsGDcoC7lPXOPuaK-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adEVCsGDcoC7lPXOPuaK-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="adEVCsGDcoC7lPXOPuaK-1" source="adEVCsGDcoC7lPXOPuaK-11" target="adEVCsGDcoC7lPXOPuaK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adEVCsGDcoC7lPXOPuaK-11" value="&lt;b&gt;Manajer Technical Development&lt;/b&gt;&lt;div&gt;Rifky Abdul Hanan&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="adEVCsGDcoC7lPXOPuaK-1">
+          <mxGeometry x="590" y="330" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="adEVCsGDcoC7lPXOPuaK-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="adEVCsGDcoC7lPXOPuaK-1" source="adEVCsGDcoC7lPXOPuaK-13" target="adEVCsGDcoC7lPXOPuaK-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adEVCsGDcoC7lPXOPuaK-13" value="&lt;b&gt;Programmer&lt;/b&gt;&lt;div&gt;Ibnu Nasrulloh&lt;/div&gt;&lt;div&gt;Ihsan Fajar Ramadhan&lt;/div&gt;&lt;div&gt;Maryam Azzahro Nurjanah&lt;/div&gt;&lt;div&gt;Muhammad Ramzi&lt;/div&gt;&lt;div&gt;Muhammad Risyad Wibawa&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="adEVCsGDcoC7lPXOPuaK-1">
+          <mxGeometry x="440" y="490" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="adEVCsGDcoC7lPXOPuaK-15" value="&lt;b&gt;Graphic Deisgner&lt;/b&gt;&lt;div&gt;Doni Adrian&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="adEVCsGDcoC7lPXOPuaK-1">
+          <mxGeometry x="760" y="490" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="adEVCsGDcoC7lPXOPuaK-17" value="&lt;b&gt;Support&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Maryam Azzahro Nurjanah&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="adEVCsGDcoC7lPXOPuaK-1">
+          <mxGeometry x="440" y="650" width="200" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
