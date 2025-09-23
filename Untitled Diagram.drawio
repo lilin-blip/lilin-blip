@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.4">
   <diagram name="Page-1" id="AA9trC6-xfU6afuePi1D">
-    <mxGraphModel dx="2587" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2934" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="adEVCsGDcoC7lPXOPuaK-1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="adEVCsGDcoC7lPXOPuaK-1" value="Struktur Organisasi PT. Jerbee Indonesia" style="swimlane;whiteSpace=wrap;html=1;swimlaneFillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-120" y="230" width="1040" height="770" as="geometry" />
         </mxCell>
         <mxCell id="adEVCsGDcoC7lPXOPuaK-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="adEVCsGDcoC7lPXOPuaK-1" source="adEVCsGDcoC7lPXOPuaK-2" target="adEVCsGDcoC7lPXOPuaK-5">
@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="adEVCsGDcoC7lPXOPuaK-13" value="&lt;b&gt;Programmer&lt;/b&gt;&lt;div&gt;Ibnu Nasrulloh&lt;/div&gt;&lt;div&gt;Ihsan Fajar Ramadhan&lt;/div&gt;&lt;div&gt;Maryam Azzahro Nurjanah&lt;/div&gt;&lt;div&gt;Muhammad Ramzi&lt;/div&gt;&lt;div&gt;Muhammad Risyad Wibawa&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="adEVCsGDcoC7lPXOPuaK-1">
-          <mxGeometry x="440" y="490" width="200" height="80" as="geometry" />
+          <mxGeometry x="440" y="490" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="adEVCsGDcoC7lPXOPuaK-15" value="&lt;b&gt;Graphic Deisgner&lt;/b&gt;&lt;div&gt;Doni Adrian&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="adEVCsGDcoC7lPXOPuaK-1">
           <mxGeometry x="760" y="490" width="200" height="80" as="geometry" />
