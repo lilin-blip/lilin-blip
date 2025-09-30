@@ -780,7 +780,7 @@
         </mxCell>
         <mxCell id="i0uxCh_NwJNZJlS2Aj_j-6" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="i0uxCh_NwJNZJlS2Aj_j-1" vertex="1" connectable="0">
           <mxGeometry x="-0.5065" y="1" relative="1" as="geometry">
-            <mxPoint x="11" y="-40" as="offset" />
+            <mxPoint x="13" y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="--O8MYwCTXGspxk5uFQB-58" value="Apakah klik&lt;div&gt;tombol &quot;Perlu Dikirim&quot;?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
