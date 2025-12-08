@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.2">
   <diagram name="Page-1" id="AA9trC6-xfU6afuePi1D">
-    <mxGraphModel dx="2276" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2528" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,17 +40,11 @@
         <mxCell id="adEVCsGDcoC7lPXOPuaK-11" parent="adEVCsGDcoC7lPXOPuaK-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Manajer Technical Development&lt;/b&gt;&lt;div&gt;Rifky Abdul Hanan&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="200" x="590" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="adEVCsGDcoC7lPXOPuaK-18" edge="1" parent="adEVCsGDcoC7lPXOPuaK-1" source="adEVCsGDcoC7lPXOPuaK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="adEVCsGDcoC7lPXOPuaK-17" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="adEVCsGDcoC7lPXOPuaK-13" parent="adEVCsGDcoC7lPXOPuaK-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Programmer&lt;/b&gt;&lt;div&gt;Ibnu Nasrulloh&lt;/div&gt;&lt;div&gt;Ihsan Fajar Ramadhan&lt;/div&gt;&lt;div&gt;Maryam Azzahro Nurjanah&lt;/div&gt;&lt;div&gt;Muhammad Ramzi&lt;/div&gt;&lt;div&gt;Muhammad Risyad Wibawa&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="200" x="440" y="490" as="geometry" />
         </mxCell>
         <mxCell id="adEVCsGDcoC7lPXOPuaK-15" parent="adEVCsGDcoC7lPXOPuaK-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Graphic Deisgner&lt;/b&gt;&lt;div&gt;Doni Adrian&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="200" x="760" y="490" as="geometry" />
-        </mxCell>
-        <mxCell id="adEVCsGDcoC7lPXOPuaK-17" parent="adEVCsGDcoC7lPXOPuaK-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Support&lt;/b&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Maryam Azzahro Nurjanah&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="200" x="440" y="650" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
